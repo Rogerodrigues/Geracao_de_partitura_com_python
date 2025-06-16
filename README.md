@@ -1,4 +1,4 @@
-# 🎵 Geração de Partitura Jazz com Padrões Rítmicos usando Python (music21)
+# 🎵 Geração de Partitura Jazz com Padrões Rítmicos usando Python (music21).
 
 Olá! 👋  
 Este projeto foi feito por um estudante de Ciência de Dados 🎓, como parte do meu aprendizado de Python aplicado à música. O objetivo é gerar uma partitura com acordes e padrões rítmicos típicos de jazz, utilizando a biblioteca **music21**.
